@@ -1,5 +1,7 @@
 *.exe
 *.dll
 *.gif
+baselevel.xml
+wxDCDesigner.config
 templates/**
 translate/**
