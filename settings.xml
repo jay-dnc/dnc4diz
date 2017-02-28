@@ -1,0 +1,34 @@
+<settings>
+  <build_speed_mount>0</build_speed_mount>
+  <rowgrow_SupportMain>10</rowgrow_SupportMain>
+  <rowgrow_SupportSecond>10</rowgrow_SupportSecond>
+  <rowgrow_CostMain>20</rowgrow_CostMain>
+  <rowgrow_CostSecond>20</rowgrow_CostSecond>
+  <rowgrow_CostMoney>20</rowgrow_CostMoney>
+  <rowgrow_CostPeople>0</rowgrow_CostPeople>
+  <rowgrow_BuildSpeed>0</rowgrow_BuildSpeed>
+  <rowgrow_HitPoints>5</rowgrow_HitPoints>
+  <rowgrow_LaserDr>7</rowgrow_LaserDr>
+  <rowgrow_BombDr>10</rowgrow_BombDr>
+  <rowgrow_LaserNumber>0</rowgrow_LaserNumber>
+  <rowgrow_LaserDamage>20</rowgrow_LaserDamage>
+  <rowgrow_LaserAr>30</rowgrow_LaserAr>
+  <rowgrow_BombNumber>0</rowgrow_BombNumber>
+  <rowgrow_BombDamage>9</rowgrow_BombDamage>
+  <rowgrow_BombAr>15</rowgrow_BombAr>
+  <rowgrow_TransCap>0</rowgrow_TransCap>
+  <rowgrow_CarierCap>0</rowgrow_CarierCap>
+  <rowgrow_Weight>5</rowgrow_Weight>
+  <rowgrow_MaxWeight>10</rowgrow_MaxWeight>
+  <rowgrow_Motivator>10</rowgrow_Motivator>
+  <rowgrow_MotivatorPower>50</rowgrow_MotivatorPower>
+  <rowgrow_MotivatorWeight>66</rowgrow_MotivatorWeight>
+  <rowgrow_Fuel>6</rowgrow_Fuel>
+  <rowgrow_FuelPower>49</rowgrow_FuelPower>
+  <rowgrow_FuelWeight>49</rowgrow_FuelWeight>
+  <rowgrow_ScanStrength>5</rowgrow_ScanStrength>
+  <rowgrow_DetectRange>5</rowgrow_DetectRange>
+  <rowgrow_StealthLvl>20</rowgrow_StealthLvl>
+  <rowgrow_StealthLvlPower>45</rowgrow_StealthLvlPower>
+  <rowgrow_StealthLvlWeight>45</rowgrow_StealthLvlWeight>
+</settings>
